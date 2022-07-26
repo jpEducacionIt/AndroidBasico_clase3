@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">Clase3_activity_vistas</string>
+    <string name="text_titulo_main_activity">Ingrese valores numericos</string>
+    <string name="button_continuar">continuar</string>
+    <string name="editText1">ingrese valor 1</string>
+    <string name="editText2">ingrese valor 2</string>
+</resources>
